@@ -1,0 +1,5 @@
+Rent: 1200
+Groceries: 250
+Utilities: 100
+Transportation: 75
+Dining: 50
